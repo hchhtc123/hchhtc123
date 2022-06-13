@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me:  QQ:1075558916
+- 📫 联系我：  **QQ:**  1075558916； **邮箱：** 1075558916@qq.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hchhtc123&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchhtc123&show_icons=true&count_private=true&theme=tokyonight)
