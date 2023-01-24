@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 📫 联系我：  **QQ:**  1075558916； **邮箱：** 1075558916@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchhtc123&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchhtc123&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
